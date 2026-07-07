@@ -40,19 +40,19 @@ importers:
         version: 4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       mobx-route:
         specifier: ^1.2.0
-        version: 1.2.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+        version: 1.2.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       mobx-view-model:
-        specifier: ^10.2.3
-        version: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+        specifier: ^10.2.4
+        version: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       mobx-view-model-react:
-        specifier: ^10.3.0
-        version: 10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+        specifier: ^10.3.1
+        version: 10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       mobx-view-model-vite-plugin:
-        specifier: ^1.4.3
-        version: 1.4.3(mobx-view-model-react@10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(vite@8.1.0(@types/node@26.0.1)(esbuild@0.28.1)(jiti@2.7.0)(tsx@4.22.4))
+        specifier: ^1.4.4
+        version: 1.4.4(mobx-view-model-react@10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(vite@8.1.0(@types/node@26.0.1)(esbuild@0.28.1)(jiti@2.7.0)(tsx@4.22.4))
       mobx-web-api:
-        specifier: ^1.14.0
-        version: 1.14.0(mobx@6.16.1)(react@19.2.7)
+        specifier: ^1.14.1
+        version: 1.14.1(mobx@6.16.1)(react@19.2.7)
       react:
         specifier: ^19.2.7
         version: 19.2.7
@@ -1640,26 +1640,26 @@ packages:
     peerDependencies:
       mobx: ^6.12.4
 
-  mobx-view-model-devtools@0.1.3:
-    resolution: {integrity: sha512-tRmalfQ5phw3OnOcxvWglnAQ3x9Ip1U4GfUUTUGmP1FZlkM6VEzJV+X9Hhfn8PXk2SOt/IW10bGNtVwI9AccXA==}
+  mobx-view-model-devtools@0.1.4:
+    resolution: {integrity: sha512-yWZbL0nD3mi+ZqTBJRt4Sm8cxpBIvgaa5hM9IjjRF4ZYWZ3sv6uDGNuVOf5RLjrPOYKol92i2Ewjkm+vjj4I2w==}
 
-  mobx-view-model-react@10.3.0:
-    resolution: {integrity: sha512-wXnkdzNRjaMwqfk+WX4Yc5+c9F+bByZpDTqQ/i2JOrpvsG+3dBx84YchvsuYFFEhHYBtw4wflPZ08V6Pitw5qg==}
+  mobx-view-model-react@10.3.1:
+    resolution: {integrity: sha512-RD9IrA2J+tjdIpL+xq0PJWizfHPRVjFv26PLVSPF1Y5fOZHUz9l0KGoXhrr0IsxRXbFJJPezeuv+iALQmFKhcQ==}
     peerDependencies:
       mobx: ^6.12.4
       mobx-react-lite: ^4.0.7
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
 
-  mobx-view-model-vite-plugin@1.4.3:
-    resolution: {integrity: sha512-SQMfs9Ca5g37SVDgEqAYg4VDeBalkf1qHnBkI/jWjKwyx0UdRPlqQ3qy6TIuoakBN/IbXc/FwLnXZQrEiVgiZg==}
+  mobx-view-model-vite-plugin@1.4.4:
+    resolution: {integrity: sha512-Pn7pRQwtRlPTCqElIBOWc+P8Jv3Vfuc1GeyQZneH4kcn5xqkj83PN1FgGfMdpkoTTRmu8qgRRym9Q4QsUHEJIA==}
     peerDependencies:
       mobx-view-model: ^10.2.2
       mobx-view-model-react: ^10.2.2
       vite: ^6.0.0 || ^7.0.0 || ^8.0.0
 
-  mobx-view-model@10.2.3:
-    resolution: {integrity: sha512-FQzzeQWhqR+sx4Oce7iFrTdq2dGcfCk8tnmi5RsS0gKdMXOto8PC2q1ANRim7Mw37GjzdR+RnkrZ/3PV2t2xBQ==}
+  mobx-view-model@10.2.4:
+    resolution: {integrity: sha512-jb2vD+X3Mf5PrjqBc5SwIQIDLjQLKuhkfYCpE9rZgBGv8T52z6rfFtbEkk/Itqx6WxHRidkWP7C7rjynjnbtXQ==}
     peerDependencies:
       mobx: ^6.12.4
       react: ^18.0.0 || ^19.0.0
@@ -1669,6 +1669,11 @@ packages:
 
   mobx-web-api@1.14.0:
     resolution: {integrity: sha512-ZLPtRcqCz2dBB81C1HlYA2prjOB1rVuJ+TTIFCyP6qMnv1vy3vTGUoq3TVbJwW/OR9fJG22/EXth+VoMZlwOzg==}
+    peerDependencies:
+      mobx: ^6.13.6
+
+  mobx-web-api@1.14.1:
+    resolution: {integrity: sha512-JcWKaFhFGZr56mjxzE1U9KKy7WBWu3ct63HNtEz/GqQsbQWC98xObXf5lxJBvWelaWooz0AyqW+GnaWYKf8YpQ==}
     peerDependencies:
       mobx: ^6.13.6
 
@@ -3604,7 +3609,7 @@ snapshots:
     optionalDependencies:
       react-dom: 19.2.7(react@19.2.7)
 
-  mobx-route@1.2.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
+  mobx-route@1.2.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
     dependencies:
       mobx: 6.16.1
       mobx-location-history: 9.4.1(mobx@6.16.1)(react@19.2.7)
@@ -3612,7 +3617,7 @@ snapshots:
       yummies: 7.20.1(mobx@6.16.1)(react@19.2.7)
     optionalDependencies:
       mobx-react-lite: 4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
-      mobx-view-model: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+      mobx-view-model: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       react: 19.2.7
       react-dom: 19.2.7(react@19.2.7)
 
@@ -3627,13 +3632,13 @@ snapshots:
     transitivePeerDependencies:
       - react
 
-  mobx-view-model-devtools@0.1.3:
+  mobx-view-model-devtools@0.1.4:
     dependencies:
       '@gravity-ui/icons': 2.18.0(react@18.3.1)
       mobx: 6.16.1
       mobx-react-lite: 4.1.1(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       mobx-swiss-knife: 1.15.2(mobx@6.16.1)(react@18.3.1)
-      mobx-view-model: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      mobx-view-model: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       mobx-web-api: 1.14.0(mobx@6.16.1)(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -3646,28 +3651,28 @@ snapshots:
       - svelte
       - vue
 
-  mobx-view-model-react@10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  mobx-view-model-react@10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       mobx: 6.16.1
       mobx-react-lite: 4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
-      mobx-view-model: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      mobx-view-model: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  mobx-view-model-react@10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
+  mobx-view-model-react@10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
     dependencies:
       mobx: 6.16.1
       mobx-react-lite: 4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
-      mobx-view-model: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+      mobx-view-model: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       react: 19.2.7
       react-dom: 19.2.7(react@19.2.7)
 
-  mobx-view-model-vite-plugin@1.4.3(mobx-view-model-react@10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(vite@8.1.0(@types/node@26.0.1)(esbuild@0.28.1)(jiti@2.7.0)(tsx@4.22.4)):
+  mobx-view-model-vite-plugin@1.4.4(mobx-view-model-react@10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(vite@8.1.0(@types/node@26.0.1)(esbuild@0.28.1)(jiti@2.7.0)(tsx@4.22.4)):
     dependencies:
       magic-string: 0.30.21
-      mobx-view-model: 10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
-      mobx-view-model-devtools: 0.1.3
-      mobx-view-model-react: 10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+      mobx-view-model: 10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+      mobx-view-model-devtools: 0.1.4
+      mobx-view-model-react: 10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       vite: 8.1.0(@types/node@26.0.1)(esbuild@0.28.1)(jiti@2.7.0)(tsx@4.22.4)
     transitivePeerDependencies:
       - react-native
@@ -3675,10 +3680,10 @@ snapshots:
       - svelte
       - vue
 
-  mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       mobx: 6.16.1
-      mobx-view-model-react: 10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      mobx-view-model-react: 10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       yummies: 7.20.1(mobx@6.16.1)(react@18.3.1)
     optionalDependencies:
       react: 18.3.1
@@ -3686,10 +3691,10 @@ snapshots:
       - mobx-react-lite
       - react-dom
 
-  mobx-view-model@10.2.3(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
+  mobx-view-model@10.2.4(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7):
     dependencies:
       mobx: 6.16.1
-      mobx-view-model-react: 10.3.0(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
+      mobx-view-model-react: 10.3.1(mobx-react-lite@4.1.1(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))(mobx@6.16.1)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       yummies: 7.20.1(mobx@6.16.1)(react@19.2.7)
     optionalDependencies:
       react: 19.2.7
@@ -3704,7 +3709,7 @@ snapshots:
     transitivePeerDependencies:
       - react
 
-  mobx-web-api@1.14.0(mobx@6.16.1)(react@19.2.7):
+  mobx-web-api@1.14.1(mobx@6.16.1)(react@19.2.7):
     dependencies:
       mobx: 6.16.1
       yummies: 7.20.1(mobx@6.16.1)(react@19.2.7)

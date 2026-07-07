@@ -1,3 +1,8 @@
 allowBuilds:
   '@parcel/watcher': false
   esbuild: false
+minimumReleaseAgeExclude:
+  - mobx-view-model-devtools@0.1.4
+  - mobx-view-model-react@10.3.1
+  - mobx-view-model-vite-plugin@1.4.4
+  - mobx-view-model@10.2.4
